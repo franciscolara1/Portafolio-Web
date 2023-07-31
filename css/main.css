@@ -141,10 +141,10 @@ a {
     font-family: monospace;
     white-space: nowrap;
     border-right: 2px solid;
-    width:35ch;
+    width:38ch;
     
 
-    animation: typing 4s steps(30), blink .5s infinite step-end alternate;
+    animation: typing 4s steps(50), blink .5s infinite step-end alternate;
     overflow: hidden;
 }
 
